@@ -9,7 +9,8 @@ This is a demo app to show capabilities to build an app in React-Native.
 * Mobx is used to keep count on button clicks on all views
 
 ## Run the app
-Run the following commands to run the app: ```bash
+Run the following commands to run the app: 
+```bash
 git clone https://github.com/IsacSvensson/ReactNative-TacoBar.git
 npm i
 npx react-native run-android
